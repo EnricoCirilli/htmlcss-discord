@@ -66,7 +66,6 @@ a{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    position: relative;
     padding: 20px;
     display: flex;
     justify-content: center;
@@ -82,7 +81,7 @@ h1{
     font-size: 3rem;
     padding: 30px;
 }
-p{
+.paragraph-1{
     color: white;
     line-height: 30px;
     font-size: 1.2rem  ;
@@ -126,27 +125,29 @@ span{
     background-color: white;
     display: flex;
     justify-content: center;
-    padding: 40px 200px;
+    padding: 40px 250px;
 
 }
 .box-2-1{
-    background-image: url(../img/item1.svg);
-    width: 100%;
+    width:;
     min-height: 500px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;   
-    border: 1px dashed black;
-    flex-grow: 0.1;
-}
-.box-2-2{
-    background-color: pink;
-    width: 300px;
-    min-height: 00px;  
-    border: 1px dashed black;
     
 }
+.box-2-2{
+    width: 500px;
+    min-height: 100px;  
+}
+h2{
+    font-size: 2.8rem;
+    line-height: 1;
+    margin-top: 40px;
+}
+.paragraph-2{
+    color: black;
+    line-height: 30px;
+    margin-top: 40px;
+}
+
 /*  SECTION 3 */
 .section-3{
     background-color: grey;
