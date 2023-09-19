@@ -193,8 +193,9 @@ h2{
 }
 .box-5{
     background-color: green;
-    width: 500px;
+    width: 1000px;
     min-height: 300px; 
+    text-align: center;
     
 }
 
