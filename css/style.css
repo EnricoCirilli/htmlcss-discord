@@ -126,20 +126,24 @@ span{
     background-color: white;
     display: flex;
     justify-content: center;
-    padding: 20px 100px;
+    padding: 40px 200px;
 
 }
 .box-2-1{
-    background-color: rgb(16, 119, 229);
-    width: 400px;
-    min-height: 200px;   
+    background-image: url(../img/item1.svg);
+    width: 100%;
+    min-height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;   
     border: 1px dashed black;
     flex-grow: 0.1;
 }
 .box-2-2{
     background-color: pink;
     width: 300px;
-    min-height: 200px;  
+    min-height: 00px;  
     border: 1px dashed black;
     
 }
