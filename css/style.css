@@ -62,8 +62,7 @@ a{
 .section-1{
     background-image: url(../img/jumbo.png);
     width: 100%;
-    max-height: 1100px;
-    margin 0 auto;
+    max-height: 1000px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -157,17 +156,13 @@ h2{
     padding: 100px;
 }
 .box-3-1{
-    background-color: pink;
-    width: 300px;
+    width: 400px;
     min-height: 200px;   
-    border: 1px dashed black;
     }
 .box-3-2{
-   
     width: 400px;
-    min-height: 200px;  
-    border: 1px dashed black;
-    flex-grow: 0.1;
+    min-height: 200px;
+    
     }
 
 /* SECTION 4 */ 
