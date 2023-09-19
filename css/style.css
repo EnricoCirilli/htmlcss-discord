@@ -19,7 +19,8 @@ body{
 }
 /* SET NAV BAR*/
 .nav-bar{
-    display: flex;      
+    display: flex;  
+    align-items: center;
 }
 /* STILYING LIST AND USING GAP*/
 .deco {
@@ -40,10 +41,9 @@ a{
 }
 /* DOTTED BORDER*/
 .space {
+    min-height: 70px;
     width: 500px;
     padding: 15px;
-    border: 1px dashed black;
-    background-color: darkgoldenrod;
 }
 /*  TO LOGIN */
 .login{
@@ -53,9 +53,10 @@ a{
 .link-color{
     color: black;
     background-color: white;
-    border: 1px solid white;
-    width: 100px;
+    border-top: 10px solid white;
+    width: 80px;
     border-radius: 25px;
+    text-align: center;
 }
 /* SECTION 1 */
 .section-1{
