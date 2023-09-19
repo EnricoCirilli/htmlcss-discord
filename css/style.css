@@ -175,28 +175,43 @@ h2{
 }
 .box-4-1{
     width: 400px;
-    min-height: 200px;   
-    flex-grow: 0.5;
+    min-height: 200px;
+    flex-grow: 0.5;   
+   
 }
 .box-4-2{
-    width: 300px;
+    width: 400px;
     min-height: 200px;  
+   
 }
     
 
 /* SECTION 5 */
 .section-5{
-    background-color: grey;
+    background-color: rgb(241, 239, 239);
     padding: 20px;
+    padding-bottom: 200px;
     display: flex;
     justify-content: center;
 }
 .box-5{
-    background-color: green;
     width: 1000px;
     min-height: 300px; 
     text-align: center;
-    
+}
+h3{
+    padding: 20px;
+    font-size: 2rem;
+}
+.box-link-5{
+   margin: 20px;
+}
+.link-section-5{
+    background-color: blue;
+    padding: 20px;
+    color: white;
+    font-size: 18px;
+    border-radius: 25px;
 }
 
 /* SECTION 6 */
