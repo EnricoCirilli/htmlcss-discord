@@ -174,17 +174,13 @@ h2{
 
 }
 .box-4-1{
-    background-color: rgb(16, 119, 229);
     width: 400px;
     min-height: 200px;   
-    border: 1px dashed black;
-    flex-grow: 0.1;
+    flex-grow: 0.5;
 }
 .box-4-2{
-    background-color: pink;
     width: 300px;
     min-height: 200px;  
-    border: 1px dashed black;
 }
     
 
